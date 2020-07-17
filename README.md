@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+A budding Web Developer and Computer Vision Enthusiast.<br>
+My skills include NodeJS, Python
