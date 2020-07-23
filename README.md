@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 A budding Web Developer and Computer Vision Enthusiast.<br>
-My skills include NodeJS, Python
+My skills include NodeJS, Python, C++, Deep Learning, Django.<br>
+* 👯 I’m looking to collaborate on Web Development Projects
+* ⚡ Fun fact: Also an occasional Anime Fan. 
