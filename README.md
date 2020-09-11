@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+ 
 A budding Web Developer and Computer Vision Enthusiast.<br>
 My skills include NodeJS, Python, C++, OpenCV, Deep Learning, Django.<br>
 * 👯 I’m looking to collaborate on Web Development and Computer Vision Projects 
